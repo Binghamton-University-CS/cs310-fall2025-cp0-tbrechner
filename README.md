@@ -1,7 +1,7 @@
-Full Name: Tyler Brechner 
-GitHub ID: tbrechner 
-Binghamton CS userid: tbrechner 
-Discord name: TBREC 
+Full Name: Tyler Brechner  
+GitHub ID: tbrechner  
+Binghamton CS userid: tbrechner  
+Discord name: TBREC  
 
 Please type or copy the CS 310 honesty statement here:
 
